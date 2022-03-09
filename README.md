@@ -1,4 +1,4 @@
-# D3-challenge
+# D3-challenge - Core assignment
 I have created a scatter plot between poverty and obesity.
 
 I have included tooltips that contain information on relevant state and both data variables. 
