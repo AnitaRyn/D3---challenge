@@ -5,4 +5,4 @@ I have included tooltips that contain information on relevant state and both dat
 
 I have used python -m http.server to run the visualisation. This will host the page at localhost:8000 in your web browser.
 
-![Capture](Capture.jpg)
+![image](image.png)
